@@ -1,6 +1,2 @@
-# angular2
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/574495412/angular2.git
-git push -u origin master
+# 科学上网
+推荐赛风3 和 自由门，一键翻墙，无后顾之忧-C
